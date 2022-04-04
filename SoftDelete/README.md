@@ -1,7 +1,7 @@
 # Soft Delete
 ## Installation
 ```python
-pip install django-softdelete
+pip install django-generic-delete
 ```
 
 ## Configuration
